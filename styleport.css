@@ -1,0 +1,48 @@
+#hero {
+    height: 720px;
+    background-image:url('img/Web\ 1920\ –\ 1.png');
+}
+.ling {
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  .ling:visited {
+    color: rgb(255, 255, 255);
+  }
+  .ling:hover, .ling:active, .ling:focus {
+    color:rgb(155, 155, 155);
+    
+  }
+ul{
+    margin-top: 500px;
+}
+li{
+    float: left;
+}
+#skill{
+    height: 247px;
+    background-image: url('img/Web\ 1920\ –\ 3.png');
+}
+#aboutme {
+    height: 720px;
+    background-image:url('img/Web\ 1920\ –\ 2.png');
+}
+#acivmen{
+  padding-top: 15%;
+}
+#amber{
+  margin-left: 15%;
+  margin-top: 15%;
+}
+.me {
+  color: #ffffff;
+  text-decoration: none;
+}
+.me:visited {
+  color: rgb(255, 255, 255);
+}
+.me:hover, .me:active, .me:focus {
+  color:rgb(155, 155, 155);
+  
+}
